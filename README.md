@@ -3,7 +3,7 @@ My personal begginer playground with data science and deep learning.
 
 ## Files description
 * getTitles.py - titles grabber script, it takes newses from rss channels to .txt file
-* [Polish news titles database](https://github.com/avrland/polishNewsTitleDatabase) advanced edition of getTitles, I collect ~1k news titles everyday from Google News
+* [Polish news titles database](https://github.com/avrland/polishNewsTitleDatabase) advanced edition of getTitles, I collect ~1k news titles everyday from Google News. Currently collected base is also included - feel free to play with it!
 * removeDuplicate.ipynb - python script removing duplicate lines in txt file
 * News_titles_stats_and_visualization.ipynb - intro into data visualization and statistics
 
