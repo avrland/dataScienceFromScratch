@@ -9,7 +9,7 @@ My personal begginer playground with data science and deep learning.
 
 
 ## #Niusbot 2021
-This project generates funny polish news titles variations. I'm using https://github.com/minimaxir/textgenrnn as base to workout on LSTM networks.
+This project generates funny polish news titles variations. I'm using [textgenrnn project](https://github.com/minimaxir/textgenrnn) as base to workout on LSTM networks.
 ```
 gis ostrzega przed bąblowicą . choroba przenosi się na wypasie z rtx
 ps5 za poprawką przewidującą sankcje wobec nord stream 2
