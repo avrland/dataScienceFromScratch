@@ -8,7 +8,7 @@ My personal begginer playground with data science and deep learning.
 * News_titles_stats_and_visualization.ipynb - intro into data visualization and statistics
 
 
-## #Niusbot 2021
+## Niusbot
 This project generates funny polish news titles variations. I'm using [textgenrnn project](https://github.com/minimaxir/textgenrnn) as base to workout on LSTM networks.
 ```
 gis ostrzega przed bąblowicą . choroba przenosi się na wypasie z rtx
@@ -27,3 +27,5 @@ chiny reagują . nakazały usa zamknąć konsulat neptuna
 crysis remaster na białorusi . apel rafała trzaskowskiego
 korea południowa boi się po wrocławiu . do stolicy anglii ciągnie lgbt
 ```
+## Keras Lab Classify (Multiclass)
+We're doing here multiclass classification of photos taken at specific points in the laboratory (CE, CRF, ESD, BURST). First shot of model get effectiveness on range 85-87%.
